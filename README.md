@@ -1,5 +1,5 @@
 # opnsense-theme-dark
-This fork is a modification to run on FreeBSD 13 and OPNSense 22.1. It may run on 22.7, but I have not tested it as yet. Enjoy! 
+This fork is a modification to run on FreeBSD 13 and OPNSense 22.1. The Package is non-functional as yet.
 
 Dark theme for OPNsense, because real networking people dwell in the dark.
 
