@@ -1,9 +1,11 @@
 # opnsense-theme-dark
+This fork is a modification to run on FreeBSD 13 and OPNSense 22.1. It may run on 22.7, but I have not tested it as yet. Enjoy! 
+
 Dark theme for OPNsense, because real networking people dwell in the dark.
 
 the .txz package can be installed with:
 
-    sudo pkg add https://github.com/mihakralj/opnsense-theme-dark/raw/main/os-theme-dark-devel-0.1.txz
+    sudo pkg add https://github.com/mihakralj/opnsense-theme-dark/raw/main/os-theme-dark-devel-0.2-FreeBSD13-OPNSense-22.1.txz
 
 after installation, a new dark theme should appear in System-General -> Theme
 
